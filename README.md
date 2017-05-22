@@ -1,2 +1,0 @@
-# task-reminder
-React App
